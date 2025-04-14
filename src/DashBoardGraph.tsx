@@ -15,7 +15,7 @@ export const DashboardGraph: React.FC = () => {
     { category: 'Sep', value: 60 },
     { category: 'Oct', value: 50 },
     { category: 'Nov', value: 40 },
-    { category: 'dec', value: 30 },
+    { category: 'Dec', value: 30 },
   ];
 
   const config = {
