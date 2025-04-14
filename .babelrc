@@ -1,0 +1,11 @@
+{
+    "plugins": [
+      [
+        "babel-plugin-import",
+        {
+          "libraryName": "antd",
+          "style": "css" // or "less", depending on your needs
+        }
+      ]
+    ]
+  }
