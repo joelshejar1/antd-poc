@@ -1,5 +1,4 @@
 import React from 'react';
-import { Column } from '@ant-design/plots';
 
 export const DashboardGraph: React.FC = () => {
   // Dummy data for the graph
@@ -46,5 +45,5 @@ export const DashboardGraph: React.FC = () => {
     },
   };
 
-  return <Column {...config} />;
+  return <></>;
 };
